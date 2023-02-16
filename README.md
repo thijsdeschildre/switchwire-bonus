@@ -9,13 +9,13 @@ There are three paths to build a Switchwire:
 ## Part sourcing
 Voron information to source [here](https://docs.vorondesign.com/sourcing.html).  
 There is the [BOM](https://vorondesign.com/voron_switchwire), but you mostly want to rely on the [Sourcing Guide](https://vorondesign.com/sourcing_guide).  
-My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/BOM).  
+My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/BOM.md).  
 
 ## Assembly
 Voron information to assemble [here](https://docs.vorondesign.com/build/).  
 Hardware assembly [here](https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf).  
 Toolhead assembly for [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Manual/Assembly_Manual_SB.pdf).
-My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/assembly).  
+My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/assembly.md).  
  
 ## Software configuration
 Install the software stack microcontroller. Usually this is a Raspberry Pi with klipper, an API such as Moonraker, and a  front-end like Mainsail or Fluidd. You can find premade images for these stacks.  
