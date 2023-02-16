@@ -1,0 +1,17 @@
+please sort fasteners by diameter and length
+ribbon cable mentioned in sourcing guide, but not documented ("Since Lian has 4-6 conductor ribbon cable in a few difference sizes")
+a few broken links in the spreadsheet
+M3x12 FHCS  in spreadsheet -> is SS ?
+
+recommend PTFE wiring
+recommend wire lengths
+
+heatbed ring terminals not in BOM ( the assembly manual says to use ring terminals. its more reliable too, AFAIK)
+
+BOM says "Keystone CAT6 Insert" but its not in the sourcing guide
+SKR mini needs LCD adapter, not in BOM or sourcing guide (the assembly manual mentions it, and you need it for the recommended driver board (skr mini V2/V3))
+maybe put thread locking fluid in BOM
+
+for crimping quick disconnect terminals on the power connectors: TE 2-520184-2  isn't compatible with generic crimp tools, it requires a unique crimp tool from TE, which costs >250 euro
+the correct crimp to recommend is 640903-1 for 18-22AWG and 640905-1 for 14-16AWG
+see https://www.eevblog.com/forum/chat/more-expensive-crimps-harder-on-the-tools/msg4175500/#msg4175500
