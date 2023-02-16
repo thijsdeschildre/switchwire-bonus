@@ -15,6 +15,8 @@ The LCD cable is about 70cm long.
 
 Heatbed ring terminals not in BOM ( the assembly manual says to use ring terminals. its more reliable too, AFAIK). Screw the ring terminals on the bottom of the heatbed with an M3 button head screw. 
 
+The toolhead PCB's are optional. 
+
 ### crimping
 For crimping quick disconnect terminals on the power connectors: TE 2-520184-2 from the BOM isn't compatible with generic crimp tools, it requires a unique crimp tool from TE, which costs >250 euro. The correct crimp to recommend is 640903-1 for 18-22AWG and 640905-1 for 14-16AWG.  
 See https://www.eevblog.com/forum/chat/more-expensive-crimps-harder-on-the-tools/msg4175500/#msg4175500 .
