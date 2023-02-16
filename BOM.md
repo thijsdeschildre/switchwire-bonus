@@ -5,32 +5,21 @@ There are specific requirements for the wiring because of the cable chains. You 
 On Aliexpress you can find PTFE wiring for a reasonable price. People often take 22AWG instead of 24AWG.  
 Silicone wiring was recommended before, but isn't as durable. Any cabling that doesn't go through a cable chain has no specific requirements.  
   
-Recommended wire lengths: a typical build has 140-160cm of wiring between the driver board and toolhead. I recommend to get 2-5meter of extra cable.  
+Recommended wire lengths: a typical build has 140-160cm of wiring between the driver board and toolhead. I recommend to get a bit of spare wire. Leave the wires a bit longer at first. Later on, you can trim the cables to exact length. You cut off the JST connectors, so you'll need plenty of extra crimps.
 Toolhead 22-24AWG: 4 wires for the fans, 4 for the extruder motor, 2 for thermistor, 3 for Z-probe, 2 for endstop.  
 Toolhead 20AWG: 2 wires for heater.  
 Heatbed: 16AWG, 2 wires for bed heater.  
 Heatbed: 22-24AWG: 2 wires for endstop, 2 wires for thermistor.  
+Stepper motors have their own wires, which you cut to length. Otherwise, the X motor is about 70-80cm, Y is 25-35cm, Z is 30cm.
+The LCD cable is about 70cm long.
 
-heatbed ring terminals not in BOM ( the assembly manual says to use ring terminals. its more reliable too, AFAIK)
+Heatbed ring terminals not in BOM ( the assembly manual says to use ring terminals. its more reliable too, AFAIK). Screw the ring terminals on the bottom of the heatbed with an M3 button head screw. 
 
-BOM says "Keystone CAT6 Insert" but its not in the sourcing guide
-SKR mini needs LCD adapter, not in BOM or sourcing guide (the assembly manual mentions it, and you need it for the recommended driver board (skr mini V2/V3))
-maybe put thread locking fluid in BOM
-
-for crimping quick disconnect terminals on the power connectors: TE 2-520184-2  isn't compatible with generic crimp tools, it requires a unique crimp tool from TE, which costs >250 euro
-the correct crimp to recommend is 640903-1 for 18-22AWG and 640905-1 for 14-16AWG
+### crimping
+For crimping quick disconnect terminals on the power connectors: TE 2-520184-2 from the BOM isn't compatible with generic crimp tools, it requires a unique crimp tool from TE, which costs >250 euro. The correct crimp to recommend is 640903-1 for 18-22AWG and 640905-1 for 14-16AWG.
 see https://www.eevblog.com/forum/chat/more-expensive-crimps-harder-on-the-tools/msg4175500/#msg4175500
 
-WIRE LENGTHS, TO TRANSLATE
-DAS kabels: PTFE, 20AWG
-
-lengte PTFE kabels: minstens 137cm elk
-toolhead dun: 4x ventilator, 4x motor, 2x thermistor, 3x probe, 2x endstop -> 22.5 meter (rood 3meter, zwart 10.5m, 1.5m bruin, 3meter groen, 4.5 meter blauw)
-toolhead dik:  2x heater, 3 meter 20AWG
-heatbed: 3 meter 16AWG 
-
-gewone kabels:
-24 AWG: 2x Y eindstop, 2x bed thermistor
-stappenmotoren: X (70-80cm), Y (25-35cm), Z (30cm) 
-
-lcd 70cm
+### other
+The BOM says "Keystone CAT6 Insert" but its not in the sourcing guide. 
+The SKR mini needs an LCD adapter, not this in BOM or sourcing guide. The assembly manual mentions it, and you need it for the recommended driver board (skr mini V2/V3)). [This](https://lab4450.com/product/skr-mini-e3-screen-adaptor/) is an example. There's also some confusion with earlier SKR mini V2 boards which required you to flip the housing of the connectors (Google it).
+You'll need thread locking fluid, blue Loctite 242.
