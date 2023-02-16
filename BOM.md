@@ -1,8 +1,8 @@
 When checking the [sourcing guide](https://vorondesign.com/sourcing_guide), make sure you also check the toolhead (Stealthburner) parts. These are not (or not entirely) included in the VSW BOM.  
 
 ### wiring
-There are specific requirements for the wiring because of the cable chains. You want wiring with PTFE mantles for the best quality and durability.
-On Aliexpress you can find PTFE wiring for a reasonable price. You want wiring with a high strand count (for flexibility), and often 22AWG instead of 24AWG.  
+There are specific requirements for the wiring because of the cable chains. You want wiring with PTFE mantles, with high strand count, for the best quality and durability.
+On Aliexpress you can find PTFE wiring for a reasonable price. People often take 22AWG instead of 24AWG.  
 Silicone wiring was recommended before, but isn't as durable. Any cabling that doesn't go through a cable chain has no specific requirements.  
   
 Recommended wire lengths: a typical build has 140-160cm of wiring between the driver board and toolhead. I recommend to get 2-5meter of extra cable.  
