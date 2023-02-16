@@ -17,7 +17,10 @@ The LCD cable is about 70cm long.
 
 Heatbed ring terminals not in BOM ( the assembly manual says to use ring terminals. its more reliable too, AFAIK). Screw the ring terminals on the bottom of the heatbed with an M3 button head screw. These are M3 size, suitable for 16AWG.
 
-The toolhead PCB's are optional. 
+The toolhead PCB's are optional.  
+
+The assembly manual recomends 14AWG between controller board and PSU, the sourcing guide only recommends 16AWG.  
+The spade terminal listed is for 18-22AWG. A 14-16AWG spade terminal from Molex has reference 0191980025.  
 
 ### crimping
 For crimping quick disconnect terminals on the power connectors: TE 2-520184-2 from the BOM isn't compatible with generic crimp tools, it requires a unique crimp tool from TE, which costs >250 euro. The correct crimp to recommend is 640903-1 for 18-22AWG and 640905-1 for 14-16AWG.  
