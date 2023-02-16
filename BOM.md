@@ -16,10 +16,10 @@ The LCD cable is about 70cm long.
 Heatbed ring terminals not in BOM ( the assembly manual says to use ring terminals. its more reliable too, AFAIK). Screw the ring terminals on the bottom of the heatbed with an M3 button head screw. 
 
 ### crimping
-For crimping quick disconnect terminals on the power connectors: TE 2-520184-2 from the BOM isn't compatible with generic crimp tools, it requires a unique crimp tool from TE, which costs >250 euro. The correct crimp to recommend is 640903-1 for 18-22AWG and 640905-1 for 14-16AWG.
-see https://www.eevblog.com/forum/chat/more-expensive-crimps-harder-on-the-tools/msg4175500/#msg4175500
+For crimping quick disconnect terminals on the power connectors: TE 2-520184-2 from the BOM isn't compatible with generic crimp tools, it requires a unique crimp tool from TE, which costs >250 euro. The correct crimp to recommend is 640903-1 for 18-22AWG and 640905-1 for 14-16AWG.  
+See https://www.eevblog.com/forum/chat/more-expensive-crimps-harder-on-the-tools/msg4175500/#msg4175500 .
 
 ### other
 The BOM says "Keystone CAT6 Insert" but its not in the sourcing guide. 
-The SKR mini needs an LCD adapter, not this in BOM or sourcing guide. The assembly manual mentions it, and you need it for the recommended driver board (skr mini V2/V3)). [This](https://lab4450.com/product/skr-mini-e3-screen-adaptor/) is an example. There's also some confusion with earlier SKR mini V2 boards which required you to flip the housing of the connectors (Google it).
+The SKR mini needs an LCD adapter, not this in BOM or sourcing guide. The assembly manual mentions it, and you need it for the recommended driver board (skr mini V2/V3)). [This](https://lab4450.com/product/skr-mini-e3-screen-adaptor/) is an example. There's also some confusion with earlier SKR mini V2 boards which required you to flip the housing of the connectors (Google it).  
 You'll need thread locking fluid, blue Loctite 242.
