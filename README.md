@@ -7,19 +7,19 @@ Three paths to build a switchwire
 * Convert an Ender. I don't cover this topic, go to the Voron Discord, open the #voron_switchwire_questions channel, on the top right menu click the "threads" icon. There you can click your way to #ender_conversion_chat
 
 ## sourcing parts
-Voron information to source [here](https://docs.vorondesign.com/sourcing.html) 
-There is the [BOM](https://vorondesign.com/voron_switchwire), but you mostly want to rely on the [Sourcing Guide](https://vorondesign.com/sourcing_guide) 
+Voron information to source [here](https://docs.vorondesign.com/sourcing.html)  
+There is the [BOM](https://vorondesign.com/voron_switchwire), but you mostly want to rely on the [Sourcing Guide](https://vorondesign.com/sourcing_guide)  
 My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/BOM)  
 
 ## assembly
-Voron information to assemble [here](https://docs.vorondesign.com/build/) 
-Hardware assembly [here](https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf) 
-My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/assembly) 
+Voron information to assemble [here](https://docs.vorondesign.com/build/)  
+Hardware assembly [here](https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf)  
+My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/assembly)  
  
 ## configuration
-set up da software
+set up da software  
 Config for driver board [here](https://github.com/VoronDesign/Voron-Switchwire/tree/master/Firmware) 
 
 ## tuning
-Voron information to tune [here](https://docs.vorondesign.com/tuning/) 
-Print tuning guide: [Ellis3D](https://ellis3dp.com/Print-Tuning-Guide/) 
+Voron information to tune [here](https://docs.vorondesign.com/tuning/)  
+Print tuning guide: [Ellis3D](https://ellis3dp.com/Print-Tuning-Guide/)  
