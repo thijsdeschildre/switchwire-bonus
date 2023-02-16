@@ -20,6 +20,6 @@ For crimping quick disconnect terminals on the power connectors: TE 2-520184-2 f
 See https://www.eevblog.com/forum/chat/more-expensive-crimps-harder-on-the-tools/msg4175500/#msg4175500 .
 
 ### other
-The BOM says "Keystone CAT6 Insert" but its not in the sourcing guide. 
+The BOM says "Keystone CAT6 Insert" but its not in the sourcing guide. An USB keystone is optional.
 The SKR mini needs an LCD adapter, not this in BOM or sourcing guide. The assembly manual mentions it, and you need it for the recommended driver board (skr mini V2/V3)). [This](https://lab4450.com/product/skr-mini-e3-screen-adaptor/) is an example. There's also some confusion with earlier SKR mini V2 boards which required you to flip the housing of the connectors (Google it).  
 You'll need thread locking fluid, blue Loctite 242.
