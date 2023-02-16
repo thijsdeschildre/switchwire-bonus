@@ -4,6 +4,7 @@ When checking the [sourcing guide](https://vorondesign.com/sourcing_guide), make
 There are specific requirements for the wiring because of the cable chains. You want wiring with PTFE mantles, with high strand count, for the best quality and durability.
 On Aliexpress you can find PTFE wiring for a reasonable price. People often take 22AWG instead of 24AWG.  
 Silicone wiring was recommended before, but isn't as durable. Any cabling that doesn't go through a cable chain has no specific requirements.  
+You will need 2 extra end pieces for the cable chains. The BOM lists 2 pieces of 1 meter, but you have to split this up into 3 chains. You can buy spare endings, or [3D print them](https://www.thingiverse.com/thing:4894472).
   
 Recommended wire lengths: a typical build has 140-160cm of wiring between the driver board and toolhead. I recommend to get a bit of spare wire. Leave the wires a bit longer at first. Later on, you can trim the cables to exact length. You cut off the JST connectors, so you'll need plenty of extra crimps.
 Toolhead 22-24AWG: 4 wires for the fans, 4 for the extruder motor, 2 for thermistor, 3 for Z-probe, 2 for endstop.  
