@@ -15,3 +15,17 @@ maybe put thread locking fluid in BOM
 for crimping quick disconnect terminals on the power connectors: TE 2-520184-2  isn't compatible with generic crimp tools, it requires a unique crimp tool from TE, which costs >250 euro
 the correct crimp to recommend is 640903-1 for 18-22AWG and 640905-1 for 14-16AWG
 see https://www.eevblog.com/forum/chat/more-expensive-crimps-harder-on-the-tools/msg4175500/#msg4175500
+
+WIRE LENGTHS, TO TRANSLATE
+DAS kabels: PTFE, 20AWG
+
+lengte PTFE kabels: minstens 137cm elk
+toolhead dun: 4x ventilator, 4x motor, 2x thermistor, 3x probe, 2x endstop -> 22.5 meter (rood 3meter, zwart 10.5m, 1.5m bruin, 3meter groen, 4.5 meter blauw)
+toolhead dik:  2x heater, 3 meter 20AWG
+heatbed: 3 meter 16AWG 
+
+gewone kabels:
+24 AWG: 2x Y eindstop, 2x bed thermistor
+stappenmotoren: X (70-80cm), Y (25-35cm), Z (30cm) 
+
+lcd 70cm
