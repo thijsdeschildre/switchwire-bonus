@@ -20,8 +20,8 @@ My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/
 ## Software configuration
 Install the software stack microcontroller. Usually this is a Raspberry Pi with klipper, an API such as Moonraker, and a  front-end like Mainsail or Fluidd. You can find premade images for these stacks.  
 There's a sample configuration for driver board [here](https://github.com/VoronDesign/Voron-Switchwire/tree/master/Firmware).  
-A sample Voron config for Prusaslicer /  Superslicer can be found on Discord (pinned messages of #slicers_and_print_help).  
-These two config files need to be adapted further to your build. This is a learning process.
+A sample Voron config for Prusaslicer /  Superslicer can be found on Discord (pinned messages of **#slicers_and_print_help**).  
+These two config files need to be adapted further to your build. This is a learning process and part of the build. 
 
 ## Tuning
 Voron information to tune [here](https://docs.vorondesign.com/tuning/).
