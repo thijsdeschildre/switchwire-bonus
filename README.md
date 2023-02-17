@@ -26,3 +26,6 @@ These two config files need to be adapted further to your build. This is a learn
 ## Tuning
 Voron information to tune [here](https://docs.vorondesign.com/tuning/).
 Print tuning guide: [Ellis3D](https://ellis3dp.com/Print-Tuning-Guide/).  
+
+## Upgrades / Expansions
+See [this page](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/STL.md)
