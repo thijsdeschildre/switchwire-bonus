@@ -4,7 +4,7 @@ This is a user-driven repository for the Voron Switchwire, it collects useful ti
 There are three paths to build a Switchwire:
 * Self-source all parts: more expensive and very time intensive, but allows full control of the quality and configuration
 * Buy a kit. LDO kits have good value. 
-* Convert an Ender. I don't cover this topic, go to the Voron Discord, open the #voron_switchwire_questions channel, on the top right menu click the "threads" icon. There you can click your way to #ender_conversion_chat . Conversions are available Ender 3,  V2, Artillery and CR10.
+* Convert an Ender. I don't cover this topic, go to the Voron Discord, open the **#voron_switchwire_questions** channel, on the top right menu click the "threads" icon. There you can click your way to **#ender_conversion_chat** . Conversions are available Ender 3,  V2, Artillery and CR10.
 
 ## Part sourcing
 Voron information to source [here](https://docs.vorondesign.com/sourcing.html).  
