@@ -13,3 +13,5 @@ The XZ belts need to be exactly the same length. Use a paint marker (like a Posc
 
 
 You can tuck away the XZ belts by folding them over. 
+
+[Are your motors moving in the wrong direction?](https://docs.vorondesign.com/build/startup/#sw)
