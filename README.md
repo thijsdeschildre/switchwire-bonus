@@ -13,8 +13,7 @@ My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/
 
 ## Assembly
 Voron information to assemble [here](https://docs.vorondesign.com/build/).  
-Hardware assembly [here](https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf).  
-Toolhead assembly for [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Manual/Assembly_Manual_SB.pdf).
+Hardware assembly [here](https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf). Toolhead assembly for [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Manual/Assembly_Manual_SB.pdf).  
 My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/assembly.md).  
  
 ## Software configuration
