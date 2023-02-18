@@ -20,6 +20,8 @@ To understand the wiring, here is a drawing of the Unklicky probe. It is similar
 
 <a href="https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPContact.png"><img src="https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPContact.png"  width="518" height="285" ></a>
 
+<a href="https://raw.githubusercontent.com/thijsdeschildre/switchwire-bonus/main/images/unklicky_bfp-hs.jpg"> <img src="[https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPContact.png](https://raw.githubusercontent.com/thijsdeschildre/switchwire-bonus/main/images/unklicky_bfp-hs.jpg)"  width="600" height="450" ></a>
+
 ## bed
 [Silicone tube bed leveling mod](https://www.schweinert.com/silicone-bed-level-mod-prusa-mk3/)
 
