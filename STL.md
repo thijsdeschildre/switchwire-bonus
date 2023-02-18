@@ -18,7 +18,7 @@ You will also need the dock, mounting arm and spacer.
 The Unklicky repository is forked [here](https://github.com/jlas1/Klicky-Probe/tree/main/Probes), which can be a bit confusing.  This repository has the [config files](https://github.com/jlas1/Klicky-Probe/blob/main/Klipper_macros).  
 To understand the wiring, here is a drawing of the Unklicky probe. It is similar enough to Unklicky BFP-HS.
 
-<a href="url"><img src="[http://url.to/image.png](https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPContact.png)"  height="776" width="428" ></a>
+<a href="url"><img src="https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPContact.png"  height="776" width="428" ></a>
 
 ![Contact](https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPContact.png "Contact" | width=500 )
 ![Left](https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPIL.png "Left" | width=500 )
