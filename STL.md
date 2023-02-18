@@ -14,8 +14,9 @@ other WAGO mount: https://www.printables.com/model/150807-voron-24-wago-221-415-
 If you want to use the Klicky mod, the [Unklicky](https://github.com/majarspeed/Unklicky) mod is recommended. The BOM Switchwire doesn't have a rigid bed structure and it runs on only one rail. This makes Unklicky the most suitable because it needs the lowest actuation force (and has the least risk to deflect the bed when actuating). Especially the [BFP-HS variant](https://github.com/majarspeed/Unklicky/tree/main/Unklicky_Probes/BFP-HS) is recommended.  
 These limitations of the bed make the BOM VSW **unsuitable for Voron Tap** as well.  
 
-You will also need the dock, mounting arm and spacer.
-The Unklicky repository is forked [here](https://github.com/jlas1/Klicky-Probe/tree/main/Probes), which can be a bit confusing.  This repository has the [config files](https://github.com/jlas1/Klicky-Probe/blob/main/Klipper_macros).  
+You will also need the dock, mounting arm and spacer from [this forked repository](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/Switchwire).  
+This repository has the [config files](https://github.com/jlas1/Klicky-Probe/blob/main/Klipper_macros).  
+Yesm, this repository has overlap with the original repository, which can be a bit confusing.  
 To understand the wiring, here is a drawing of the Unklicky probe. It is similar enough to Unklicky BFP-HS.
 
 <a href="https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPContact.png"><img src="https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPContact.png"  width="518" height="285" ></a>
