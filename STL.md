@@ -16,7 +16,7 @@ These limitations of the bed make the BOM VSW **unsuitable for Voron Tap** as we
 
 You will also need the dock, mounting arm and spacer from [this forked repository](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/Switchwire).  
 This repository has the [config files](https://github.com/jlas1/Klicky-Probe/blob/main/Klipper_macros).  
-Yesm, this repository has overlap with the original repository, which can be a bit confusing.  
+Yes, this repository has overlap with the original repository, which can be a bit confusing.  
 To understand the wiring, here is a drawing of the Unklicky probe. It is similar enough to Unklicky BFP-HS.
 
 <a href="https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPContact.png"><img src="https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPContact.png"  width="518" height="285" ></a>
