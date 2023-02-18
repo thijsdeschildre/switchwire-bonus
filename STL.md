@@ -17,6 +17,8 @@ These limitations of the bed make the BOM VSW unsuitable for Voron Tap as well.
 You will also need the [dock, mounting arm and spacer ](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/Switchwire).  
 To assemble, 
 
+[Config files](https://github.com/jlas1/Klicky-Probe/blob/main/Klipper_macros).  
+
 ## bed
 [Silicone tube bed leveling mod](https://www.schweinert.com/silicone-bed-level-mod-prusa-mk3/)
 
