@@ -18,6 +18,7 @@ Voron information to assemble [here](https://docs.vorondesign.com/build/).
 Hardware assembly [here](https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf). Toolhead assembly for [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Manual/Assembly_Manual_SB.pdf).  The enclosure isn't documented, check the CAD files. 
 My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/assembly.md).  
 Make sure you check the [CAD drawings](https://github.com/VoronDesign/Voron-Switchwire/tree/master/CAD), assembly is a lot easier if you can visualize it.
+Learn [here](https://www.mattmillman.com/info/crimpconnectors) about the myriad of crimps, connectors and tools.  
  
 ## Software configuration
 Install the software stack microcontroller. Usually this is a Raspberry Pi with klipper, an API such as Moonraker, and a  front-end like Mainsail or Fluidd. You can find premade images for these stacks.  
