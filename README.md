@@ -15,7 +15,7 @@ My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/
 
 ## Assembly
 Voron information to assemble [here](https://docs.vorondesign.com/build/).  
-Hardware assembly [here](https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf). Toolhead assembly for [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Manual/Assembly_Manual_SB.pdf).  
+Hardware assembly [here](https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf). Toolhead assembly for [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Manual/Assembly_Manual_SB.pdf).  The enclosure isn't documented, check the CAD files. 
 My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/assembly.md).  
 Make sure you check the [CAD drawings](https://github.com/VoronDesign/Voron-Switchwire/tree/master/CAD), assembly is a lot easier if you can visualize it.
  
