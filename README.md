@@ -6,7 +6,7 @@ There are three paths to build a Switchwire:
 * Buy a kit. LDO kits have good value. 
 * Convert an Ender. I don't cover this topic, go to the Voron Discord, open the **#voron_switchwire_questions** channel, on the top right menu click the "threads" icon. There you can click your way to **#ender_conversion_chat** . Conversions are available Ender 3,  V2, Artillery and CR10.
 
-**Make sure you read through all of the [documentation**](https://docs.vorondesign.com/). This covers sourcing information, building information (mechanical, electrical, software, initial setup and motor troubleshooting, your first print),  tuning and maintenance. 
+**Make sure you read through all of the** [**documentation**](https://docs.vorondesign.com/). This covers sourcing information, building information (mechanical, electrical, software, initial setup and motor troubleshooting, your first print),  tuning and maintenance. 
 
 ## Part sourcing
 Voron information to source [here](https://docs.vorondesign.com/sourcing.html).  
