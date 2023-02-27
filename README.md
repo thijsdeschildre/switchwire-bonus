@@ -19,6 +19,7 @@ Voron information to assemble [here](https://docs.vorondesign.com/build/).
 Hardware assembly [here](https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf). Toolhead assembly for [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Manual/Assembly_Manual_SB.pdf).  
 Extra [LDO wiring guide](https://docs.ldomotors.com/voron/voronsw/wiring_guide_rev_a), [LDO cable chain guide](https://docs.ldomotors.com/guides/cable_chain_guide)
 The enclosure isn't documented, check the CAD files. Maybe LDO has info.  
+[Nero3D has assembly videos](https://www.youtube.com/channel/UCmV40QWkVeRs_nAvEOE_P-g).  
 My remarks [here](https://github.com/thijsdeschildre/switchwire-bonus/blob/main/assembly.md).  
 Make sure you check the [CAD drawings](https://github.com/VoronDesign/Voron-Switchwire/tree/master/CAD), assembly is a lot easier if you can visualize it.
 Learn [here](https://www.mattmillman.com/info/crimpconnectors) about the myriad of crimps, connectors and tools.  
