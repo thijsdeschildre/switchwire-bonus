@@ -10,10 +10,12 @@ Recommended wire lengths: a typical build has 140-160cm of wiring between the dr
 Toolhead 22-24AWG: 4 wires for the fans, 4 for the extruder motor, 2 for thermistor, 3 for Z-probe, 2 for endstop.  
 Toolhead 20AWG: 2 wires for heater.  
 Heatbed: 16AWG, 2 wires for bed heater.  
-Heatbed: 22-24AWG: 2 wires for endstop, 2 wires for thermistor.  
+Heatbed: 22-24AWG: 2 wires for endstop, 2 wires for thermistor.  **Someone tell me the length?**
 Stepper motors have their own wires, which you cut to length. Otherwise, the X motor is about 70-80cm, Y is 25-35cm, Z is 30cm.  
 You'll need 2-pin, 3-pin and 4-pin JST connectors (plus crimps). Make sure you have these JST connectors as well. When ordering JST connectors, you might as well order 5-pin and 7-pin connectors and sockets for the accelerometer.
 The LCD cable is about 70cm long.
+
+You need a 50cm ethernet cable to go from the RPi to the keystone, and a 50-70cm cable for the webcam.
 
 Heatbed ring terminals not in BOM ( the assembly manual says to use ring terminals. its more reliable too, AFAIK). Screw the ring terminals on the bottom of the heatbed with an M3 button head screw. These are M3 size, suitable for 16AWG.
 
