@@ -15,7 +15,7 @@ Stepper motors have their own wires, which you cut to length. Otherwise, the X m
 You'll need 2-pin, 3-pin and 4-pin JST connectors (plus crimps). Make sure you have these JST connectors as well. When ordering JST connectors, you might as well order 5-pin and 7-pin connectors and sockets for the accelerometer.
 The LCD cable is about 70cm long.
 
-You need a 50cm ethernet cable to go from the RPi to the keystone, and a 50-70cm cable for the webcam.
+You need a 50cm ethernet cable to go from the RPi to the keystone, and a 50cm USB cable for the USB keystone (for the webcam).
 
 Heatbed ring terminals not in BOM ( the assembly manual says to use ring terminals. its more reliable too, AFAIK). Screw the ring terminals on the bottom of the heatbed with an M3 button head screw. These are M3 size, suitable for 16AWG.
 
